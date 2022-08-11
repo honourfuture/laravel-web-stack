@@ -99,7 +99,7 @@ return [
     |
     */
     'auth' => [
-
+	'excepts' => ['auth/login'],
         'controller' => App\Admin\Controllers\AuthController::class,
 
         'guards' => [

@@ -3,6 +3,7 @@
 /public/nginx.htaccess
 /public/storage
 /storage/*.key
+/public/uploads
 /vendor
 /.idea
 /.vagrant
